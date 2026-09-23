@@ -1,0 +1,12 @@
+.env
+data/*.db
+data/*.db-journal
+logs/*.log
+__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+.claude/settings.local.json
